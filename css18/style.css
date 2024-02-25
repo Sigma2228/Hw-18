@@ -56,11 +56,11 @@ color: dodgerblue;
 }
 .section-button {
     background-image:linear-gradient(rgba(0, 0, 0, 0.39), rgba(26, 18, 18, 0.452)),
-     url('1.png');
+     url('/Photo18/1.png');
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
-    padding: 300px 0;
+    padding: 200px 0;
     margin-bottom: 94px;
 }
 .section-titl {
@@ -97,7 +97,7 @@ color: dodgerblue;
 .text1:first-child::before {
     content: '';
     display: block;
-    background-image: url("antenna1.png");
+    background-image: url("/Photo18/antenna1.png");
     background-repeat: no-repeat;
     height: 100px;
     width: 100%;
@@ -108,7 +108,7 @@ color: dodgerblue;
 .text1:nth-child(2)::before {
     content: '';
     display: block;
-    background-image: url("clock1.png");
+    background-image: url("/Photo18/clock1.png");
     background-repeat: no-repeat;
     height: 100px;
     width: 100%;
@@ -119,7 +119,7 @@ color: dodgerblue;
 .text1:nth-child(3)::before {
     content: '';
     display: block;
-    background-image: url("diagram1(1).png");
+    background-image: url("/Photo18/diagram1(1).png");
     background-repeat: no-repeat;
     height: 100px;
     width: 100%;
@@ -131,7 +131,7 @@ color: dodgerblue;
 .text1:last-child::before {
     content: '';
     display: block;
-    background-image: url("astronaut1.png");
+    background-image: url("/Photo18/astronaut1.png");
     background-repeat: no-repeat;
     height: 100px;
     width: 100%;
@@ -197,7 +197,7 @@ color: dodgerblue;
 .who-we-are-item {
     background: #FFFFFF;
     border-radius: 3px;
-    box-shadow: 0 1px 2px 0 #00000033;
+    box-shadow: 0 4px 3px 0 #00000033;
 }
 .footer {
     height: 252px;
